@@ -1,0 +1,1 @@
+i am writing this file under nodejs all ok 
